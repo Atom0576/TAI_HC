@@ -22,7 +22,7 @@ export function InstructionSecond3() {
 
   return (
     <div style={textStyle}>
-     <p> {"If you are assigned an AI manager, We will inform you about the"} <strong>{"style"}</strong> {"of your manager and their"} <strong>{"gender."}</strong> </p> 
+     <p> {"If you are assigned an AI manager, We will inform you about the"} <strong>{"style"}</strong> {"of your manager and/or their"} <strong>{"gender."}</strong> </p> 
      <br>{}</br>   
      <p> {"In the case of a human manager, gender is based on how the manager identifies."} </p>
      <br>{}</br>   
